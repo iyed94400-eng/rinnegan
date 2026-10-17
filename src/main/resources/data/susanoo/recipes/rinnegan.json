@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "tag": "susanoo:mangekyo" },
+    { "item": "minecraft:nether_star" },
+    { "item": "minecraft:ender_eye" },
+    { "item": "minecraft:amethyst_shard" },
+    { "item": "minecraft:amethyst_shard" },
+    { "item": "minecraft:purple_dye" }
+  ],
+  "result": { "item": "susanoo:rinnegan" }
+}
